@@ -1,0 +1,19 @@
+@charset "utf-8";
+#header {
+	margin: 0px;
+	height: auto;
+	border-top-width: 2px;
+	border-right-width: 2px;
+	border-bottom-width: 2px;
+	border-left-width: 2px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	background-color: #333;
+	text-align: left;
+	backface-visibility: visible;
+	text-decoration: blink;
+	color: #FFF;
+
+}

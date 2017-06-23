@@ -1,0 +1,96 @@
+@charset "utf-8";
+#header_container {
+	color: #999;
+	position: relative;
+	padding: 0px;
+	height: 150px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	width: auto;
+	text-align: center;
+}
+#header_container #header {
+	height: 150px;
+	padding: 0px;
+	background-image: url(../images/tree.jpg);
+	margin-bottom: 15px;
+	width: auto;
+	text-align: center;
+}
+#Footer_container img1 {
+	margin-right: 30px;
+}
+#Footer_container img {
+	margin-left: 60px;
+}
+
+
+
+#header_container #header img {
+	float: left;
+	position: fixed;
+
+}
+#MenuBar1 {
+	background-color: #003;
+	left: 30px;
+	margin-left: 357px;
+	margin-bottom: 60px;
+	width: 1100px;
+	margin-top: 12px;
+}
+
+
+#header_container #header img2 {
+	height: 151px;
+	float: left;
+}
+
+
+
+
+body {
+	background-color: #B1964F;
+	margin: 0px;
+	padding: 0px;
+	width: auto;
+}
+#bodyContent {
+	color: #C6C6C6;
+	height: 230px;
+	width: 700px;
+	position: relative;
+	left: 350px;
+	background-image: url(../images/carpet%203.jpg);
+	font-size: 16px;
+	font-weight: bold;
+	padding-left: 25px;
+	padding-right: 15px;
+	padding-top: 15px;
+}
+#bodyContent #content_image {
+	height: 216px;
+	width: 291px;
+	position: absolute;
+	float: left;
+	left: -317px;
+	top: 0px;
+}
+#bodyContent #content_image img {
+	width: 312px;
+	height: 230px;
+}
+
+#Footer_container {
+	background-color: #8EA9BE;
+	position: relative;
+	height: 95px;
+	width: auto;
+	padding-left: 200px;
+	padding-top: 30px;
+	padding-right: 100px;
+	padding-bottom: 30px;
+	margin-top: 15px;
+}

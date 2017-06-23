@@ -1,0 +1,53 @@
+*{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+html, body {
+    min-width: 100%;
+    min-height: 100%;
+}
+body{
+    background: #BFBFBF;
+    background: -webkit-linear-gradient(left, #F2F2F2,#fff,#fff);
+    background: -moz-linear-gradient(left, #F2F2F2,#fff,#fff);
+    background: -o-linear-gradient(left, #990099 ,#fff,#fff);
+    background: linear-gradient(to right, #B1964F, #fff, #fff, #B1964F);
+    padding-top: 100px;
+}
+
+#eds_image{
+    width: 110px;
+    height: 110px;
+}
+
+#brand_name{
+    font-size: 30px;
+    line-height: 70px;
+    font-weight: bolder;
+    color: #B1964F;
+}
+
+.menu-items{
+    font-size: 17px;
+    margin-top: 25px;
+    font-family: Tahoma;
+}
+
+#user_form{
+    display: none;
+}
+
+#admin_data{
+    display: none;
+}
+
+#employee_data{
+    display: none;
+}
+
+#shipment_info{
+    display: none;
+}
+
